@@ -1,3 +1,0 @@
-name
-employee
-working days
